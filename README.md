@@ -9,8 +9,8 @@
 ## 🔥 About Me
 
 - 🌱 Currently exploring **Data Science & Machine Learning**
-- 📊 Working on projects related to **EDA**, **Outlier Detection**, and **Modeling**
-- 💼 Background in **Marketing & Finance** with 6+ years of professional experience
+- 📊 Working on projects related to **EDA**, **Outlier Detection**, **Preprocessing**, **Clustoring Algorithams** and **Modeling**
+- 💼 Background in **MBA-Marketing & Finance** with 6+ years of professional experience 
 - 💡 Passionate about data, problem-solving, and building impactful solutions
 - 🚀 Transitioning into the tech space with hands-on experience in **Python**, **Pandas**, **NumPy**, and **Matplotlib**
 
@@ -36,7 +36,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: sarathkumaressk@gmail.com
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/sarathkumares/))]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/sarathkumares/]
 ---
 
 > 💬 *“Learning never exhausts the mind.” – Leonardo da Vinci*

@@ -36,8 +36,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: sarathkumaressk@gmail.com
-- 🔗 LinkedIn: [Sarathkumar E S]((https://www.linkedin.com/in/sarathkumares/))
-
+- 🔗 LinkedIn: [(https://www.linkedin.com/in/sarathkumares/))]
 ---
 
 > 💬 *“Learning never exhausts the mind.” – Leonardo da Vinci*
